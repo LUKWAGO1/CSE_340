@@ -472,3 +472,5 @@ VALUES   (
  
 UPDATE inventory SET inv_image=replace(inv_image,'/images','/images/vehicles'), inv_thumbnail=replace(inv_thumbnail, '/images', '/images/vehicles');
  
+ 
+ 
